@@ -5,13 +5,13 @@ import { ArrowDownRight, ArrowUpRight, Check, ChevronRight, Download, Mail, Menu
 import './styles.css'
 
 const projects = [
-  { title: 'School System Processing', type: 'Web / System', tag: 'Education', image: '/images/schoolsystem.png', prototypeUrl: '' },
+  { title: 'School System Processing', type: 'Web / System', tag: 'Education', image: '/images/schoolsystem.png', prototypeUrl: 'https://www.figma.com/proto/d0q9M4DOgkFrlT78VQtngW/My-Project?node-id=666-3039&t=FSTyGdcp2NDf3sWv-1&scaling=scale-down&content-scaling=fixed&page-id=530%3A6591&starting-point-node-id=666%3A3039' },
   { title: 'Parent School App', type: 'Mobile App', tag: 'Education', image: '/images/school_project.png', prototypeUrl: 'https://www.figma.com/design/WYJRe4u1yD0aLy3iKj1lNa/Parent-App?node-id=0-1&t=pjhIp33RZyL8laua-1' },
-  { title: 'Loan App', type: 'Mobile App', tag: 'Fintech', image: '/images/loan_projectc.png', prototypeUrl: 'https://www.figma.com/design/d0q9M4DOgkFrlT78VQtngW/My-Project?node-id=1666-4869&t=nYWLUl63MtjR8mSG-1' },
-  { title: 'POS App', type: 'Mobile + Web', tag: 'Retail', image: '/images/POS_project.png', prototypeUrl: 'https://www.figma.com/design/d0q9M4DOgkFrlT78VQtngW/My-Project?node-id=1784-8363&t=nYWLUl63MtjR8mSG-1' },
+  { title: 'Loan App', type: 'Mobile App', tag: 'Fintech', image: '/images/loan_projectc.png', prototypeUrl: 'https://www.figma.com/proto/d0q9M4DOgkFrlT78VQtngW/My-Project?node-id=1945-26004&t=CXMgWvBoPHy1uGVy-1&scaling=scale-down&content-scaling=fixed&page-id=1945%3A4869&starting-point-node-id=1945%3A26004&show-proto-sidebar=1' },
+  { title: 'POS App', type: 'Mobile + Web', tag: 'Retail', image: '/images/POS_project.png', prototypeUrl: 'https://www.figma.com/proto/d0q9M4DOgkFrlT78VQtngW/My-Project?node-id=1787-13976&t=ZFE1jF6vg4S1jVc6-1&scaling=scale-down&content-scaling=fixed&page-id=1784%3A8363&starting-point-node-id=1787%3A13976&show-proto-sidebar=1' },
   { title: 'Delivery App', type: 'Mobile App', tag: 'Delivery', image: '/images/delivery.png', prototypeUrl: 'https://www.figma.com/design/p5hjXQGPrAwHgfRMi0FyId/delivery?node-id=487-2665&t=KPRoTyHkqqAmoL1o-1' },
-  { title: 'Service Maintenance App', type: 'Mobile App', tag: 'Service', image: '/images/servicemainternance_project.png', prototypeUrl: 'https://www.figma.com/design/d0q9M4DOgkFrlT78VQtngW/My-Project?node-id=2311-13097&t=nYWLUl63MtjR8mSG-1' },
-  { title: 'Ecommerce App', type: 'Mobile App', tag: 'Ecommerce', image: '/images/ecommerce_project.png', prototypeUrl: 'https://www.figma.com/design/d0q9M4DOgkFrlT78VQtngW/My-Project?node-id=218-5918&t=nYWLUl63MtjR8mSG-1' },
+  { title: 'Service Maintenance App', type: 'Mobile App', tag: 'Service', image: '/images/servicemainternance_project.png', prototypeUrl: 'https://www.figma.com/proto/d0q9M4DOgkFrlT78VQtngW/My-Project?node-id=2331-44212&p=f&t=l16uY2BwOgK75lA6-1&scaling=scale-down&content-scaling=fixed&page-id=2311%3A13097&starting-point-node-id=2321%3A44192&show-proto-sidebar=1' },
+  { title: 'Ecommerce App', type: 'Mobile App', tag: 'Ecommerce', image: '/images/ecommerce_project.png', prototypeUrl: 'https://www.figma.com/proto/d0q9M4DOgkFrlT78VQtngW/My-Project?node-id=218-6513&p=f&t=4iq5JGLs9LepY0aO-1&scaling=scale-down&content-scaling=fixed&page-id=218%3A5918&starting-point-node-id=218%3A6513&show-proto-sidebar=1' },
   { title: 'Rice App', type: 'Mobile App', tag: 'Business', image: '/images/rice_project.png', prototypeUrl: 'https://www.figma.com/design/TyibH4pWXNWPPv4SAqO4Qj/POS-Rice?node-id=305-613&t=pjhIp33RZyL8laua-1' },
   { title: 'Travel and Trip Tide App', type: 'Mobile App', tag: 'Travel', image: '/images/tripbooking_project.png', prototypeUrl: 'https://www.figma.com/design/DAl1Tkak7M7qa2jhWilOK4/Final?node-id=0-1&t=6ZYYIHxjq70JhNJs-1' },
 ]
