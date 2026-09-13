@@ -16,7 +16,7 @@ const projects = [
   { title: 'Travel and Trip Tide App', type: 'Mobile App', tag: 'Travel', image: '/images/tripbooking_project.png' },
 ]
 const gridProjects = projects.slice(1)
-const caseStudies = ['School System Processing', 'Service Maintenance App', 'Loan App'].map(t => projects.find(p => p.title === t))
+const caseStudies = ['School System Processing', 'Service Maintenance App', 'Loan App', 'Ecommerce App'].map(t => projects.find(p => p.title === t))
 
 const skills = ['Figma', 'Adobe XD', 'Photoshop', 'Video Editor', 'Wireframing', 'Prototyping', 'User Flow', 'Design Systems', 'HTML', 'CSS', 'JavaScript', 'React', 'Laravel', 'Flutter']
 const process = ['Research', 'User Flow', 'Wireframe', 'UI Design', 'Prototype', 'Test', 'Improve']
