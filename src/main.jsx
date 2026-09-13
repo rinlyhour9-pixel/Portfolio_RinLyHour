@@ -16,7 +16,7 @@ const projects = [
   { title: 'Travel and Trip Tide App', type: 'Mobile App', tag: 'Travel', image: '/images/tripbooking_project.png', prototypeUrl: 'https://www.figma.com/design/DAl1Tkak7M7qa2jhWilOK4/Final?node-id=0-1&t=6ZYYIHxjq70JhNJs-1', caseStudyUrl: 'https://www.figma.com/design/DAl1Tkak7M7qa2jhWilOK4/Final?node-id=0-1&t=6ZYYIHxjq70JhNJs-1' },
 ]
 const gridProjects = projects.slice(1)
-const caseStudies = ['School System Processing', 'Service Maintenance App', 'Loan App', 'Ecommerce App'].map(t => projects.find(p => p.title === t))
+const caseStudies = ['School System Processing', 'Service Maintenance App', 'Loan App', 'Ecommerce App', 'POS App'].map(t => projects.find(p => p.title === t))
 
 const skills = ['Figma', 'Adobe XD', 'Photoshop', 'Video Editor', 'Wireframing', 'Prototyping', 'User Flow', 'Design Systems', 'HTML', 'CSS', 'JavaScript', 'React', 'Laravel', 'Flutter']
 const process = ['Research', 'User Flow', 'Wireframe', 'UI Design', 'Prototype', 'Test', 'Improve']
